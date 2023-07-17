@@ -1,1 +1,1 @@
-This git repository contains files used in CYBR 372 assignments.
+This git repository contains files used in CYBR.
